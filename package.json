@@ -24,12 +24,7 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.1.6"
   }
-},
-{
 
-  "homepage": "http://<github-lia-jobcaser>.github.io/<repo-namn>",
+  
 }
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-}
+
