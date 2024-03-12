@@ -1,0 +1,32 @@
+.job-card {
+  background-color: #e8dbdb;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; 
+}
+
+.job-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.job-details {
+  flex-grow: 1;
+}
+body{
+  background-color: rgb(148, 183, 243);
+  color: rgb(10, 9, 16);
+  
+ }
+ 
+#root {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
